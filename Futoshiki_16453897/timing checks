@@ -1,0 +1,137 @@
+tpuzzle.txt: 0.46181244900799356
+tpuzzle2.txt: 0.4106021030165721
+tpuzzle3.txt: 0.38792313999147154
+tpuzzle1.txt: 0.4082456140022259
+trivial puzzles average: 0.4171458265045658
+
+easypuzzle.txt: 56.21135490699089
+easypuzzle3.txt: 2.3054125380003825
+easypuzzle2.txt: 11.581395079992944
+easypuzzle1.txt: 1.0094017509836704
+easy puzzles average: 17.776891068991972
+
+hardpuzzle3.txt: 3.739100014005089
+hardpuzzle2.txt: 26.704147439973895
+hardpuzzle1.txt: 57.6817023549811
+hardpuzzle.txt: 8.623255413025618
+hard puzzles average: 24.187051305496425
+
+
+including pruning 3
+
+tpuzzle.txt: 0.46173713900498115
+tpuzzle2.txt: 0.407212010002695
+tpuzzle3.txt: 0.38154147000750527
+tpuzzle1.txt: 0.40976448499714024
+trivial puzzles average: 0.4150637760030804
+
+
+easypuzzle.txt: 8.513803084002575
+easypuzzle3.txt: 2.2190045850002207
+easypuzzle2.txt: 4.632321106997551
+easypuzzle1.txt: 0.7197912269912194
+easy puzzles average: 4.021230000747892
+
+
+hardpuzzle3.txt: 0.8115745079994667
+hardpuzzle2.txt: 11.575134657003218
+hardpuzzle1.txt: 26.32033534301445
+hardpuzzle.txt: 5.973625098995399
+hard puzzles average: 11.170167401753133
+
+
+
+inluding pruning 4
+
+tpuzzle.txt: 0.4895485639863182
+tpuzzle2.txt: 0.4249660679779481
+tpuzzle3.txt: 0.3991845909913536
+tpuzzle1.txt: 0.41766714199911803
+trivial puzzles average: 0.4328415912386845
+
+
+easypuzzle.txt: 4.408256724011153
+easypuzzle3.txt: 2.2801792259851936
+easypuzzle2.txt: 4.85755343499477
+easypuzzle1.txt: 0.7502671900147106
+easy puzzles average: 3.074064143751457
+
+
+hardpuzzle3.txt: 0.833949563006172
+hardpuzzle2.txt: 12.16317802798585
+hardpuzzle1.txt: 1.3007120139955077
+hardpuzzle.txt: 6.209351914003491
+hard puzzles average: 5.126797879747755
+
+
+filling all of the singlitons at once - constraints were broken with this 
+
+tpuzzle.txt: 0.26563302997965366 True
+tpuzzle2.txt: 0.1379229300073348 True
+tpuzzle3.txt: 0.20894210902042687 True
+tpuzzle1.txt: 0.16031157900579274 True
+trivial puzzles average: 0.19320241200330202
+
+
+easypuzzle.txt: 4.724570829013828 True
+easypuzzle3.txt: 1.6501750430325046 True
+easypuzzle2.txt: 4.498856227961369 True
+easypuzzle1.txt: 0.35002650297246873 True
+easy puzzles average: 2.8059071507450426
+
+
+hardpuzzle3.txt: 0.6328254920081235 True
+hardpuzzle2.txt: 3.9139527319930494 True
+hardpuzzle1.txt: 0.9392482099938206 True
+hardpuzzle.txt: 5.458890601003077 True
+hard puzzles average: 2.7362292587495176
+
+with fixed constrains
+
+tpuzzle.txt: 0.26552627101773396 True
+tpuzzle2.txt: 0.13833799603162333 True
+tpuzzle3.txt: 0.20889236603397876 True
+tpuzzle1.txt: 0.16060435702092946 True
+trivial puzzles average: 0.19334024752606638
+
+
+easypuzzle.txt: 4.751077616005205 True
+easypuzzle3.txt: 1.6411791410064325 True
+easypuzzle2.txt: 4.504289965028875 True
+easypuzzle1.txt: 0.35432409500936046 True
+easy puzzles average: 2.812717704262468
+
+
+hardpuzzle3.txt: 0.6309976520133205 True
+hardpuzzle2.txt: 9.30949299101485 True
+hardpuzzle1.txt: 0.9805755350389518 True
+hardpuzzle.txt: 5.44520834099967 True
+hard puzzles average: 4.091568629766698
+
+
+adding the other half of chains
+
+tpuzzle.txt: 0.260986038018018 True
+tpuzzle2.txt: 0.13746667094528675 True
+tpuzzle3.txt: 0.20620796200819314 True
+tpuzzle1.txt: 0.16258969309274107 True
+trivial puzzles average: 0.19181259101605974
+
+
+easypuzzle.txt: 1.3673705549445003 True
+easypuzzle3.txt: 1.3236973129678518 True
+easypuzzle2.txt: 1.8341376829193905 True
+easypuzzle1.txt: 0.32398510503116995 True
+easy puzzles average: 1.2122976639657281
+
+
+hardpuzzle3.txt: 0.461649096920155 True
+hardpuzzle2.txt: 0.5786925129359588 True
+hardpuzzle1.txt: 1.4079510050360113 True
+hardpuzzle.txt: 0.9274218200007454 True
+hard puzzles average: 0.8439286087232176
+
+
+empty.txt: 0.46144470293074846 True
+chains.txt: 0.5325350810308009 True
+testing puzzles average: 0.4969898919807747
